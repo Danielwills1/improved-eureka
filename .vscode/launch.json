@@ -1,6 +1,11 @@
 {
   "version": "0.2.0",
   "configurations": [
+    React
+    App
+    alt
+
+  
     {
       "name": "Run application",
       "type": "node",
